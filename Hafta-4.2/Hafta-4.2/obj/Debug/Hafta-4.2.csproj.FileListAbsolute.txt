@@ -1,0 +1,2 @@
+C:\Users\YUŞA\source\repos\Hafta-4.2\Hafta-4.2\obj\Debug\Hafta-4.2.csprojAssemblyReference.cache
+C:\Users\YUŞA\source\repos\Hafta-4.2\Hafta-4.2\obj\Debug\Hafta-4.2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\YUŞA\source\repos\hafta-2.5\hafta-2.5\bin\Debug\hafta-2.5.exe.config
+C:\Users\YUŞA\source\repos\hafta-2.5\hafta-2.5\bin\Debug\hafta-2.5.exe
+C:\Users\YUŞA\source\repos\hafta-2.5\hafta-2.5\bin\Debug\hafta-2.5.pdb
+C:\Users\YUŞA\source\repos\hafta-2.5\hafta-2.5\obj\Debug\hafta-2.5.csprojAssemblyReference.cache
+C:\Users\YUŞA\source\repos\hafta-2.5\hafta-2.5\obj\Debug\hafta-2.5.csproj.CoreCompileInputs.cache
+C:\Users\YUŞA\source\repos\hafta-2.5\hafta-2.5\obj\Debug\hafta-2.5.exe
+C:\Users\YUŞA\source\repos\hafta-2.5\hafta-2.5\obj\Debug\hafta-2.5.pdb
